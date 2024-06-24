@@ -1,6 +1,6 @@
 
 
-.col-md{
+.col-sm{
     
     box-shadow: 4px 2px  8px 2px rgba(255, 153, 0, 0.2), 0 1px 2px rgba(255, 153, 0, 0.3);
     margin: 2%;
@@ -9,7 +9,7 @@
     transition: transform 0.3s ease;
     
 }
-.col-md:hover{
+.col-sm:hover{
     transform: scale(0.8);
 }
 

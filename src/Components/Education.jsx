@@ -7,7 +7,7 @@ function Education(){
             
             <div className="Projects"><h1 style={{fontWeight:'bold'}}>Education</h1></div>
             <div className="row">
-                <div className="col-md text">
+                <div className="col-sm text">
                     <h4>Session</h4>
                     <p>2021-2025</p>
                     <h4>Branch</h4>
@@ -16,7 +16,7 @@ function Education(){
                     <p>Rimt University</p>
                     <h4>CGPA</h4>
                     <p>9.02</p></div>
-                    <div className="col-md text">
+                    <div className="col-sm text">
                     <h4>Session</h4>
                     <p>2019-2021</p>
                     <h4>Class</h4>
@@ -24,7 +24,7 @@ function Education(){
                     <h4>School</h4>
                     <p>Govt. Girls School</p><h4> Percentage</h4>
                     <p>88.9</p></div>
-                    <div className="col-md text">
+                    <div className="col-sm text">
                     <h4>Session</h4>
                     <p>2018-2019</p>
                     <h4>Class</h4>
