@@ -1,0 +1,17 @@
+.Profile-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rounded-circle{
+    border-radius: 50%;
+    max-width: 40vh;
+    border: 3px solid ;
+    border-left-color: #F14F21;
+    border-top-color:#7EB900;
+    border-right-color:#00A3EE;
+    border-bottom-color:#FEB800;
+    height:auto;
+    margin-top: 20px;
+   
+}

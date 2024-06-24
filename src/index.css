@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+body{
+background-color: white;
+  
+  font-family:Arial, Helvetica, sans-serif;
+  
+  
+ 
+}
+
+
+
+.navbar{
+  background-color: #232F3E;
+  color: white;
+  
+    width: 100%;
+  
+
+  
+  
+}
+.navbar-brand{
+ 
+  font-size: 2rem;
+  font-weight: bold;
+
+}
+ul{
+  
+  list-style: none;
+}
+ul li{
+  display: inline-block;
+  cursor: pointer;
+  
+
+  margin: 8px 20px;
+}
+.navbar-menu  {
+
+  
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.navbar-menu :hover {
+  color: #F14F21;       /* Amazon's orange color */
+  background-color: #727272; /* Slightly lighter background on hover */
+  border-radius: 2px;
+  
+  
+  
+}
+ul li a{
+  text-decoration: none;
+}

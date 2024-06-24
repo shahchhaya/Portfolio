@@ -1,0 +1,18 @@
+h5{
+    text-align: center;
+}
+.icon-text{
+    display: flex;
+    align-items: center;
+}
+.cpp{
+    text-align: center;
+   margin-top: 12px;
+   font-weight: bold;
+   padding-left: 4%;
+}
+.cpp1{
+    text-align: center;
+    margin-top: 12px;
+    font-weight: bold;
+}

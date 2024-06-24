@@ -1,0 +1,13 @@
+.socials {
+    display: flex;
+    justify-content: center;
+
+    margin: 5%;
+}
+h6{
+    text-align: center;
+}
+.socials .contact a:hover {
+    filter: blur(2px);
+  }
+  
